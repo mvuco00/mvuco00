@@ -35,7 +35,7 @@ Software Engineer | Frontend developer @Blank
 
 ## 🏃‍♀️ Stats
 ![](https://github-readme-streak-stats.herokuapp.com/?user=mvuco00&theme=react&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=mvuco00&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
 
 ## 💫 Let's connect
 <div>
