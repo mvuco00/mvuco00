@@ -32,7 +32,10 @@ Software Engineer | Frontend developer @Blank
 </div>
 
 <br/>
-<img alt='Figma' src='https://camo.githubusercontent.com/9a8ccd8ae319ddac9934db226e7834d7e1c61a31076e7d7c04ecb5bf352967aa/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6669676d612d2532334632344531452e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6669676d61266c6f676f436f6c6f723d7768697465'/>
+<div>
+<img alt='React query' src='https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white'/>
+  <img alt='Web3' src='https://img.shields.io/badge/web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white'/>
+</div>
 
 ## 🏃‍♀️ Stats
 ![](https://github-readme-streak-stats.herokuapp.com/?user=mvuco00&theme=react&hide_border=false)<br/>
